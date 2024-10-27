@@ -1,0 +1,6 @@
+conda install pytorch torchvision torchaudio pytorch-cuda=12.1
+conda install pytorch-lightning -c conda-forge
+pip install yacs
+pip install matplotlib
+pip install pandas
+pip install transformers
